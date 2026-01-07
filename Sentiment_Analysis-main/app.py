@@ -112,7 +112,6 @@ st.markdown(
             <a href="https://orcid.org/"
                target="_blank"
                style="text-decoration:none; color:#1a73e8;">
-               ORCID: 0000-0001-5174-3558
             </a>
         </div>
     </div>
