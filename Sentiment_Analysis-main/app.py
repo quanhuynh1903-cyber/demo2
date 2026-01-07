@@ -83,7 +83,7 @@ st.markdown(
         line-height:1.7;
     ">
         <b>Students:</b><br>
-        - Bui Duc Nguyen-235053154-nguyenbd23@uef.edu.vn
+        - Bui Duc Nguyen-235053154-nguyenbd23@uef.edu.vn<br>
         - Huynh Ngoc Minh Quan-235052863-quanhnm@uef.edu.vn
     </div>
     """,
@@ -109,7 +109,7 @@ st.markdown(
              width="22">
         <div>
             <b>Bùi Tiến Đức</b> –
-            <a href="https://orcid.org/0000-0001-5174-3558"
+            <a href="https://orcid.org/"
                target="_blank"
                style="text-decoration:none; color:#1a73e8;">
                ORCID: 0000-0001-5174-3558
